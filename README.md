@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anil Khattri - a developer working with PHP Since 2015. I am involved into development of many PHP Projects based on Codeigniter, Laravel and Wordpress, that have a huge user base and great WordPress ecosystem impact. Currently im working with [Everest Forms](https://wpeverest.com/wordpress-plugins/everest-forms) A drag and drop WordPress form builder.
+I'm Anil Khattri - a developer working with PHP Since 2015. I am involved into development of many PHP Projects based on Codeigniter, Laravel and Wordpress, that have a huge user base and great WordPress ecosystem impact.
 ### Get in touch
 - Twitter: https://twitter.com/kcanil89/
 - WP.org: https://profiles.wordpress.org/kcanil89/
