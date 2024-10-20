@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anil Khattri - a developer working with PHP Since 2015. I am involved into development of many PHP Projects based on Codeigniter, Laravel and Wordpress, that have a huge user base and great WordPress ecosystem impact.
+I am a passionate IT professional with extensive experience in web development, project management, and software support. Skilled in PHP, Laravel, WordPress, and front-end technologies, I have a proven track record of delivering effective solutions for various clients and local government projects. I enjoy mentoring aspiring programmers, organizing tech events, and staying updated with the latest technology trends. As an active community member, I participate in social organizations and contribute to Word Camp events. My dedication to coding, continuous learning, and social work drives my growth as a versatile and skilled developer.
 ### Get in touch
 - Twitter: https://twitter.com/kcanil89/
 - WP.org: https://profiles.wordpress.org/kcanil89/
